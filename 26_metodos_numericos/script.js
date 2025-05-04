@@ -1,7 +1,7 @@
 // Métodos
 
 // parseFloat 10.0
-
+// parseFloat => converte a string um numero flutuante.
 console.log(parseFloat('12.999'));
 console.log(Number.parseFloat('12.999'));
 
@@ -16,7 +16,7 @@ console.log(parseInt('16.966'));
 // esse método arredonda para uma casa decimal
 console.log(22.9988888.toFixed(1));
 
-// isNaN
+// isNaN, retorna um boolean
 console.log(isNaN("teste"));
 console.log(isNaN(12));
 console.log(isNaN("12"));

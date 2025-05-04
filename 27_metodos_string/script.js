@@ -3,7 +3,7 @@
 // length
 // esse método da a quantidade ou comprimento de caracteres
 
-var nome = "Matheus";
+var nome = "Jailso";
  
 console.log(nome.length);
 
@@ -13,7 +13,7 @@ console.log(obj.length);
 
 
 // indexOf
-// acha a letra da frase pelo index no caso de matheus é t
+// acha a letra da frase pelo index
 console.log(nome[2]);
 
 

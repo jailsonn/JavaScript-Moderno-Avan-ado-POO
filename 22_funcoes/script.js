@@ -1,4 +1,5 @@
 // Funções
+// camel Case/Snake_Case/Pascal Case
 // Nome da função, Verbo e Substantivo
 
 function primeiraFuncao() {
@@ -11,7 +12,10 @@ primeiraFuncao();
 primeiraFuncao();
 primeiraFuncao();
 
-// Uma função tambem pode ter argumentos, parametros
+console.log('-----------------------');
+
+
+// Uma função tambem pode ter argumentos ou parametros
 function deizerNome(nome) {
     console.log("O meu nome é: " + nome);
 
@@ -19,6 +23,8 @@ function deizerNome(nome) {
 deizerNome("Jailson da Silva");
 deizerNome("Julia Theresa R. O. S");
 deizerNome("Murilo Cavalcante R. O. S");
+
+console.log('-----------------------');
 
 //se fosse puchar nome de um banco de dados
 var nomeDoBancoDeDados = "joão";

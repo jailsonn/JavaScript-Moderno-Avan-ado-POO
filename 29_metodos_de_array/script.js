@@ -1,12 +1,12 @@
 // Método de array
 
-// langth
+// langth => quantidade de propriedades
 var arr = [1,2,3,4,5];
 
 console.log(arr.length);
 
 // push
-// adicionar propriedades ao array
+// adicionar propriedades ao final do array
 arr.push(6);
 arr.push("posso add qualquer coisa");
 

@@ -1,12 +1,18 @@
 // extrutura ou bloco de codigo if
-// dentro dos parenteses, a condição e no bloco o que serar decidido
+// dentro dos parenteses a condição, e no bloco o que serar decidido
 if(true) {
     console.log("Testando o if");
 }
 
+if(false) {
+    console.log("Entrando no if");
+} else {
+    console.log("Entrando no else");
+}
+
 // segundo exemplo
-let provas = 2
-let trabalhos = 10
+let provas = 7
+let trabalhos = 6
 let media = (provas + trabalhos) / 2
 
 

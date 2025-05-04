@@ -1,5 +1,5 @@
 // vamos Acessar os Elemetos do DOM 
-// Acessando os Elementos do Dom no modo convencional
+// Acessando os Elementos da Dom no modo convencional
 
 // tag  -  Obs. TagName é no plural mais de um elemento
 var titulo = document.getElementsByTagName('h1')[0];
@@ -11,7 +11,7 @@ var lis = document.getElementsByTagName('li');
 console.log(lis[3]);
 
 
-// id ----------------------Obs ById estpa no Singular
+// id ----------------------Obs ById está no Singular
 var paragrafo = document.getElementById('paragrafo');
 console.log(paragrafo);
 

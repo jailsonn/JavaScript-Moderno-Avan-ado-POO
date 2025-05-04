@@ -1,4 +1,4 @@
-// Tudo que estivere fora das funções é Escopo Global
+// Tudo que estiver fora das funções é Escopo Global
 // Ex;.
 var x = 8;
 

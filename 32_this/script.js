@@ -28,7 +28,7 @@ let pessoa = {
 
     // tambem podemos alterar as propriedades alem de chamar
     aniversario: function() {
-        this.idade += 1;
+        this.idade += 3;
     }
     
 };

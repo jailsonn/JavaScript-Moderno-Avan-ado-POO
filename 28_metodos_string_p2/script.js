@@ -4,10 +4,12 @@
 // esse método modifica de letra maiusculas para minusculas
 var frase = "Essa é a Frase que vamos manipular";
 
+// toUpperCase.
 var fraseCaixaAlta = frase.toUpperCase();
 
 console.log(fraseCaixaAlta);
 
+// toLocaleLowerCase
 console.log(fraseCaixaAlta.toLocaleLowerCase());
 
 // trim
@@ -18,6 +20,8 @@ var nomeTrim = nome.trim();
 
 console.log(nome);
 console.log(nomeTrim);
+
+console.log('---------------------------------');
 
 // split
 // asvezes vc quer mandar o método como arrei
@@ -34,4 +38,6 @@ var fraseDois = "Eu quero a ultima palavra";
 console.log(fraseDois.indexOf("teste"));
 
 console.log(fraseDois.lastIndexOf("teste"));
+// console.log(fraseDois);
+
 

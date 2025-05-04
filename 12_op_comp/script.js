@@ -20,10 +20,10 @@ if (possuiCarro) {
 
 var nome = "Pedro";
 
-if (nome == "Matheus") {
-    console.log("O seu nome é Matheus");
+if (nome == "Jailsn") {
+    console.log("O seu nome é Jailsn");
     
 }
-if (nome != "Matheus") {
-    console.log("O seu nome não é Matheus");
+if (nome != "Jailsn") {
+    console.log("O seu nome não é Jailsn");
 }

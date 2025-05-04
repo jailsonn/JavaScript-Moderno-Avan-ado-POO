@@ -6,6 +6,7 @@ var obj = {
 
 console.log(obj);
 console.log(typeof obj);
+console.log('-----------');
 
 // como que eu acesso um objeto?
 console.log(obj.nome);
@@ -24,6 +25,8 @@ obj.profissao = 'Dev Front';
 // concatenar texto mais o objeto
 console.log("O meu Nome é: " + obj.nome);
 console.log("A minha idade: " + obj.idade);
+console.log('----------------------------');
+
 
 // tambem posso criar propriedades dentro do objeto ex:
 obj.graduacao = true;
